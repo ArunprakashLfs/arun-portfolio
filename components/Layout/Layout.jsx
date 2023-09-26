@@ -2,8 +2,8 @@ import React from 'react'
 
 const Layout = () => {
   return (
-    <div>
-      LayOut
+    <div className='flex items-center justify-center'>
+      <h1 className='text-xl font-bold text-primary'>Home</h1>
     </div>
   )
 }
